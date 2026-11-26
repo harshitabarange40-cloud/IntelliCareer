@@ -1,4 +1,5 @@
 # IntelliCareer – Intelligent Career Recommendation Expert System
+🔗 Live Demo: https://intellicareer-4qrl.onrender.com
 
 A responsive Flask web application that uses a transparent, rule-based expert system to recommend career paths. It is an educational guidance tool, not a machine-learning model or a substitute for professional career counselling.
 
